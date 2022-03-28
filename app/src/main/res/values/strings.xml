@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Days-4</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="masuk_dengan_google">Masuk dengan Google</string>
+    <string name="masuk_dengan_email">Masuk dengan Email</string>
+</resources>
